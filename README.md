@@ -49,5 +49,5 @@
 ---
 
 ### Let's Connect 🤝
-[<img width="48" height="48" src="https://img.icons8.com/fluency/48/linkedin.png" alt="linkedin"/>](https://www.linkedin.com/in/saran-m-47b295395?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app )  
-[<img width="48" height="48" src="https://img.icons8.com/color/48/gmail-new.png" alt="gmail-new"/>](mailto:saran2962002@gmail.com)
+[<img width="48" height="48" src="https://img.icons8.com/fluency/48/linkedin.png" alt="linkedin"/>](www.linkedin.com/in/sarath-chandran-0a7a13366)
+[<img width="48" height="48" src="https://img.icons8.com/color/48/gmail-new.png" alt="gmail-new"/>](mailto:sarathchandran9344@gmail.com)
