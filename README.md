@@ -49,5 +49,5 @@
 ---
 
 ### Let's Connect 🤝
-[<img width="48" height="48" src="https://img.icons8.com/fluency/48/linkedin.png" alt="linkedin"/>](www.linkedin.com/in/sarath-chandran-0a7a13366)
+[<img width="48" height="48" src="https://img.icons8.com/fluency/48/linkedin.png" alt="linkedin"/>](https://www.linkedin.com/in/sarath-chandran-0a7a13366)
 [<img width="48" height="48" src="https://img.icons8.com/color/48/gmail-new.png" alt="gmail-new"/>](mailto:sarathchandran9344@gmail.com)
